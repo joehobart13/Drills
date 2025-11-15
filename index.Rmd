@@ -1,0 +1,82 @@
+---
+title: "Baseball Drills"
+subtitle: "Hitting and Fielding Drills for All Age Groups"
+date: " "
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::bs4_book:
+    theme:
+      bootswatch: flatly
+    css: style.css
+description: |
+  A practical, organized collection of baseball drills covering hitting, fielding, pitching, catching, and team fundamentals. Designed for coaches, players, and instructors looking to build efficient, skill-based practices.
+---
+
+# Preface {-}
+
+This book is a practical guide for baseball/ softball coaches and players who want a single reference for skill development. Each chapter organizes drills by skill area and includes descriptions, key teaching points, and video examples.
+
+Use this book as:
+
+- A **practice design tool** — pick drills based on your focus for the day.  
+- A **reference guide** — find specific drills for mechanics or strategy.  
+- A **training progression** — follow chapters in order to build complete fundamentals.  
+
+
+
+---
+
+## Equipment & Safety Notes {-}
+
+Before starting any drill:
+
+- Inspect equipment for safety and wear.  
+- Make sure throwing and hitting zones are clear.  
+- Emphasize **proper warm-up routines** and stretching before drills.  
+- Encourage hydration and recovery time.  
+
+---
+
+## Warm-up Recommendation {-}
+
+Begin each practice with:
+
+1. **Dynamic warm-up (5–8 minutes)** — jog, lunges, arm circles, mobility.  
+2. **Throwing progression (10 minutes)** — short toss to long toss.  
+3. **Skill warm-up (5 minutes)** — short, focused fundamental drill.  
+
+---
+
+## Some Websites {-}
+
+MC Minor Baseball Rule Books [here](https://www.bcminorbaseball.org/rulesbooks).
+Approved Bat Rules
+Softball Canada Rules
+NCCP Website
+The Locker
+Lineup Card
+Diamond Diagram
+
+
+---
+## General Advice {-}
+
+### Working Hard
+
+<div style="text-align:center;">
+<iframe width="315" height="560"
+        src="https://www.youtube.com/embed/GCkUiJPWlZ0?autoplay=1&mute=1&loop=1&playlist=GCkUiJPWlZ0"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+</iframe>
+</div>
+
+### Good Warmup Catch
+
+<div style="text-align:center;">
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/reel/Cz6ueGnu_eO/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+</blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
+</div>

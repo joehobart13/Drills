@@ -1,0 +1,59 @@
+# Throwing Mechanics
+
+bla bla bla bla
+
+## Basics of Throwing Mechanics
+
+<div style="text-align:center;">
+<iframe width="560" height="315"
+        src="https://www.youtube.com/embed/oWubA0m1cNA?start=0&end=102&autoplay=0&mute=1&loop=1&playlist=oWubA0m1cNA"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+</iframe>
+</div>
+
+<div style="text-align:center;">
+<iframe width="560" height="315"
+        src="https://www.youtube.com/embed/jTwjtiYj9Uo?autoplay=0&mute=1&loop=1&playlist=jTwjtiYj9Uo"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+</iframe>
+</div>
+
+
+<div style="text-align:center;">
+<iframe width="315" height="560"
+        src="https://www.youtube.com/embed/BsPrlBU5mUY?autoplay=1&mute=1&loop=1&playlist=BsPrlBU5mUY"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+</iframe>
+</div>
+
+### Work the Stretch
+
+
+<div style="text-align:center;">
+<iframe width="560" height="315"
+        src="https://www.youtube.com/embed/oWubA0m1cNA?start=102&end=112&autoplay=0&mute=0&loop=0&playlist=oWubA0m1cNA"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+</iframe>
+</div>
+
+
+
+### Work the Shuffle
+
+
+<div style="text-align:center;">
+<iframe width="560" height="315"
+        src="https://www.youtube.com/embed/oWubA0m1cNA?start=113&end=133&autoplay=0&mute=0&loop=0&playlist=oWubA0m1cNA"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+</iframe>
+</div>

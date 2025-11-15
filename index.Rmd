@@ -13,7 +13,7 @@ description: |
   A practical, organized collection of baseball drills covering hitting, fielding, pitching, catching, and team fundamentals. Designed for coaches, players, and instructors looking to build efficient, skill-based practices.
 ---
 
-# Preface {-}
+# Introduction {-}
 
 This book is a practical guide for baseball/ softball coaches and players who want a single reference for skill development. Each chapter organizes drills by skill area and includes descriptions, key teaching points, and video examples.
 
@@ -42,21 +42,21 @@ Before starting any drill:
 
 Begin each practice with:
 
-1. **Dynamic warm-up (5–8 minutes)** — jog, lunges, arm circles, mobility.  
-2. **Throwing progression (10 minutes)** — short toss to long toss.  
-3. **Skill warm-up (5 minutes)** — short, focused fundamental drill.  
+1. **Dynamic warm-up (5–10 minutes)** — jog, lunges, arm circles, mobility.  
+2. **Throwing progression (10-20 minutes)** — short toss to long toss.  
+3. **Skill warm-up/ Dailies (5-10 minutes)** — short, focused fundamental drill.  
 
 ---
 
 ## Some Websites {-}
 
-MC Minor Baseball Rule Books [here](https://www.bcminorbaseball.org/rulesbooks).
-Approved Bat Rules
-Softball Canada Rules
-NCCP Website
-The Locker
-Lineup Card
-Diamond Diagram
+-  MC Minor Baseball Rule Books [here](https://www.bcminorbaseball.org/rulesbooks).  
+-  Approved Bat Rules  
+-  Softball Canada Rules  
+-  NCCP Website  
+-  The Locker  
+-  Lineup Card  
+-  Diamond Diagram  
 
 
 ---
@@ -66,7 +66,7 @@ Diamond Diagram
 
 <div style="text-align:center;">
 <iframe width="315" height="560"
-        src="https://www.youtube.com/embed/GCkUiJPWlZ0?autoplay=1&mute=1&loop=1&playlist=GCkUiJPWlZ0"
+        src="https://www.youtube.com/embed/GCkUiJPWlZ0?autoplay=0&mute=1&loop=1&playlist=GCkUiJPWlZ0"
         frameborder="0"
         allow="autoplay; encrypted-media"
         allowfullscreen>

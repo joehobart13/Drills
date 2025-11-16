@@ -57,6 +57,23 @@
 </div>
 
 
+### Sprint Drill
+
+<div style="max-width:540px; margin:1px auto;">
+  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/C5YgiRGsnNL/?utm_source=ig_embed&utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; padding:0; width:100%;">
+  </blockquote>
+  <script async src="//www.instagram.com/embed.js"></script>
+</div>
+
+### Change of Direction and Agility Drill
+
+<div style="max-width:540px; margin:1px auto;">
+  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DJ_9QKmuAmT/?utm_source=ig_embed&utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; padding:0; width:100%;">
+  </blockquote>
+  <script async src="//www.instagram.com/embed.js"></script>
+</div>
+
+
 
 ## Warmup Stretches
 
@@ -99,3 +116,17 @@
 </div>
 
 
+## Strength and Weight Training
+
+### Kettle Bell Work for Softball
+
+<div style="position: relative; width: 315px; height: 560px; max-width:100%; margin:auto;">
+  <iframe
+    src="https://www.youtube.com/embed/cvLrZxASwhY"
+    title="YouTube Short"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position:absolute; width:100%; height:100%; left:0; top:0;">
+  </iframe>
+</div>

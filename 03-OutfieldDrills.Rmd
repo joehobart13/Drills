@@ -35,6 +35,17 @@
   <script async src="//www.instagram.com/embed.js"></script>
 </div>
 
+
+### Push Drill
+
+<div style="max-width:540px; margin:1px auto;">
+  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/C5jfhUxPdJZ/?utm_source=ig_embed&utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; padding:0; width:100%;">
+  </blockquote>
+  <script async src="//www.instagram.com/embed.js"></script>
+</div>
+
+
+
 ##  Tracking Drills
 
 
@@ -94,7 +105,17 @@
 
 
 ##  Throwing & Relays
-Hitting cutoff, tag plays
+
+
+### Footwork for Do-Or-Die
+
+<div style="max-width:540px; margin:1px auto;">
+  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DMx43Fvp5yM/?utm_source=ig_embed&utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; padding:0; width:100%;">
+  </blockquote>
+  <script async src="//www.instagram.com/embed.js"></script>
+</div>
+
+
 
 ## Communication Drills
 Calling for fly balls, teamwork exercises

@@ -254,6 +254,16 @@
   <script async src="//www.instagram.com/embed.js"></script>
 </div>
 
+### Flat Glove Work
+
+<iframe width="315" height="560"
+  src="https://www.youtube.com/embed/-5PNbrT2sB8"
+  title="YouTube Short"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
 
 
 ## Double Play / Pivot Work
@@ -377,6 +387,18 @@
         allowfullscreen>
 </iframe>
 </div>
+
+
+
+
+### Chatter and Hunt
+
+<div style="max-width:540px; margin:1px auto;">
+  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DHe0jNyyoBv/?utm_source=ig_embed&utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; padding:0; width:100%;">
+  </blockquote>
+  <script async src="//www.instagram.com/embed.js"></script>
+</div>
+
 
 
 

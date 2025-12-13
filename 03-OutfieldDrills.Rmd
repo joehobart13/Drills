@@ -103,6 +103,89 @@
 </div>
 
 
+### "Oh Shit" part II
+
+<div style="max-width:540px; margin:1em auto;">
+  <blockquote class="instagram-media"
+    data-instgrm-permalink="https://www.instagram.com/reel/C3yAK10OSom/?utm_source=ig_embed&utm_campaign=loading"
+    data-instgrm-version="14"
+    style="background:#FFF; border:0; border-radius:3px;
+           box-shadow:0 0 1px rgba(0,0,0,0.5),
+                       0 1px 10px rgba(0,0,0,0.15);
+           padding:0; width:100%;">
+  </blockquote>
+</div>
+
+<script async src="https://www.instagram.com/embed.js"></script>
+
+
+###  Find it, Get under it
+
+
+<div style="max-width:540px; margin:1em auto;">
+  <blockquote class="instagram-media"
+    data-instgrm-permalink="https://www.instagram.com/reel/DLnfeHOS4Sj/?utm_source=ig_embed&utm_campaign=loading"
+    data-instgrm-version="14"
+    style="background:#FFF; border:0; border-radius:3px;
+           box-shadow:0 0 1px rgba(0,0,0,0.5),
+                       0 1px 10px rgba(0,0,0,0.15);
+           padding:0; width:100%;">
+  </blockquote>
+</div>
+
+<script async src="https://www.instagram.com/embed.js"></script>
+
+
+###  The "Y" Drill
+
+<div style="max-width:540px; margin:1em auto;">
+  <blockquote class="instagram-media"
+    data-instgrm-permalink="https://www.instagram.com/reel/DJ9X2Fhu3NC/?utm_source=ig_embed&utm_campaign=loading"
+    data-instgrm-version="14"
+    style="background:#FFF; border:0; border-radius:3px;
+           box-shadow:0 0 1px rgba(0,0,0,0.5),
+                       0 1px 10px rgba(0,0,0,0.15);
+           padding:0; width:100%;">
+  </blockquote>
+</div>
+
+<script async src="https://www.instagram.com/embed.js"></script>
+
+
+###  Tennis ball (and 2 tennis balls?)
+
+<div style="max-width:540px; margin:1em auto;">
+  <blockquote class="instagram-media"
+    data-instgrm-permalink="https://www.instagram.com/reel/DHbO54LJ_uu/?utm_source=ig_embed&utm_campaign=loading"
+    data-instgrm-version="14"
+    style="background:#FFF; border:0; border-radius:3px;
+           box-shadow:0 0 1px rgba(0,0,0,0.5),
+                       0 1px 10px rgba(0,0,0,0.15);
+           padding:0; width:100%;">
+  </blockquote>
+</div>
+
+<script async src="https://www.instagram.com/embed.js"></script>
+
+
+
+###  Which one?
+
+<div style="max-width:540px; margin:1em auto;">
+  <blockquote class="instagram-media"
+    data-instgrm-permalink="https://www.instagram.com/reel/DNbui58JXL4/?utm_source=ig_embed&utm_campaign=loading"
+    data-instgrm-version="14"
+    style="background:#FFF; border:0; border-radius:3px;
+           box-shadow:0 0 1px rgba(0,0,0,0.5),
+                       0 1px 10px rgba(0,0,0,0.15);
+           padding:0; width:100%;">
+  </blockquote>
+</div>
+
+<script async src="https://www.instagram.com/embed.js"></script>
+
+
+
 
 ##  Throwing & Relays
 

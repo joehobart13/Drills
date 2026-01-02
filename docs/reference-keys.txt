@@ -170,3 +170,8 @@ rolled-ground-balls
 off-the-wall-drill
 med-ball-work
 med-ball-routine
+forehand
+backhand
+reaction-speed
+other
+footwork-1

@@ -1,7 +1,24 @@
 # Fielding Drills
 
 
-##  Dailies
+
+
+## Forehand
+
+
+
+### Getting Around the Ball
+
+<div style="text-align:center;">
+<iframe width="315" height="560"
+        src="https://www.youtube.com/embed/nXXQcbLBDrM?autoplay=1&mute=1&loop=0&playlist=nXXQcbLBDrM"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+</iframe>
+</div>
+
+
 
 ### Crossover Dailies
 
@@ -23,99 +40,6 @@
 
 
 
-
-
-### Rolled Backhand Daily
-
-<div style="text-align:center;">
-<iframe width="560" height="315"
-        src="https://www.youtube.com/embed/aXXhaomzYZA?start=81&end=90&autoplay=0&mute=1&loop=1&playlist=aXXhaomzYZA"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
-        allowfullscreen>
-</iframe>
-</div>
-
-### Backhand Daily From a Cone
-
-<div style="text-align:center;">
-<iframe width="560" height="315"
-        src="https://www.youtube.com/embed/aXXhaomzYZA?start=206&end=205&autoplay=0&mute=1&loop=0&playlist=aXXhaomzYZA"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
-        allowfullscreen>
-</iframe>
-</div>
-
-
-
-
-
-
-### Backhand Ladder
-
-<div style="text-align:center;">
-<iframe width="560" height="315"
-        src="https://www.youtube.com/embed/aXXhaomzYZA?start=491&end=505&autoplay=0&mute=1&loop=0&playlist=aXXhaomzYZA"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
-        allowfullscreen>
-</iframe>
-</div>
-
-## Infield Fundamentals
-
-### Fix Your Backhand in 30 Seconds
-
-
-<div style="max-width:540px; margin:1em auto;">
-  <blockquote class="instagram-media"
-    data-instgrm-permalink="https://www.instagram.com/reel/DQUZcmWjQKj/?utm_source=ig_embed&utm_campaign=loading"
-    data-instgrm-version="14"
-    style="background:#FFF; border:0; border-radius:3px;
-           box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15);
-           padding:0; width:100%;">
-  </blockquote>
-  <script async src="https://www.instagram.com/embed.js"></script>
-</div>
-
-
-### Getting Around the Ball
-
-<div style="text-align:center;">
-<iframe width="315" height="560"
-        src="https://www.youtube.com/embed/nXXQcbLBDrM?autoplay=1&mute=1&loop=0&playlist=nXXQcbLBDrM"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
-        allowfullscreen>
-</iframe>
-</div>
-
-### Footwork Shuffle
-
-<div style="text-align:center;">
-<iframe width="560" height="315"
-        src="https://www.youtube.com/embed/aXXhaomzYZA?start=0&end=57&autoplay=0&mute=1&loop=0&playlist=aXXhaomzYZA"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
-        allowfullscreen>
-</iframe>
-</div>
-
-
-
-### Triangle Drop Shuffle
-
-<div style="text-align:center;">
-<iframe width="560" height="315"
-        src="https://www.youtube.com/embed/aXXhaomzYZA?start=382&end=395&autoplay=0&mute=1&loop=0&playlist=aXXhaomzYZA"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
-        allowfullscreen>
-</iframe>
-</div>
-
-
 ### Pancake Hoop Drill
 
 <div style="max-width:540px; margin:1em auto;">
@@ -132,8 +56,33 @@
 <script async src="https://www.instagram.com/embed.js"></script>
 
 
+### Flat Glove Work
 
-## Ground Ball Drills
+<iframe width="315" height="560"
+  src="https://www.youtube.com/embed/-5PNbrT2sB8"
+  title="YouTube Short"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+
+
+
+### Footwork Shuffle
+
+<div style="text-align:center;">
+<iframe width="560" height="315"
+        src="https://www.youtube.com/embed/aXXhaomzYZA?start=0&end=57&autoplay=0&mute=1&loop=0&playlist=aXXhaomzYZA"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+</iframe>
+</div>
+
+
+
+
 
 ### Advanced Knee Ground Balls (Fungo)
 
@@ -145,7 +94,6 @@
         allowfullscreen>
 </iframe>
 </div>
-
 
 
 ### Short Forehand Fungos
@@ -160,16 +108,7 @@
 </div>
 
 
-### Advanced Triangle Drill
 
-<div style="text-align:center;">
-<iframe width="560" height="315"
-        src="https://www.youtube.com/embed/nwT3mBgwQQQ?start=78&end=110&autoplay=0&mute=1&loop=0&playlist=nwT3mBgwQQQ"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
-        allowfullscreen>
-</iframe>
-</div>
 
 ### Active Feet Middle Infield
 
@@ -190,24 +129,65 @@
 
 
 
-###  Backhand, Forehand and Fly
 
-<div style="text-align:center;">
-  <blockquote 
-    class="instagram-media"
-    data-instgrm-captioned
-    data-instgrm-permalink="https://www.instagram.com/reel/DFGpLTLyOoq/?utm_source=ig_embed&utm_campaign=loading"
+
+## Backhand
+
+
+
+### Fix Your Backhand in 30 Seconds
+
+
+<div style="max-width:540px; margin:1em auto;">
+  <blockquote class="instagram-media"
+    data-instgrm-permalink="https://www.instagram.com/reel/DQUZcmWjQKj/?utm_source=ig_embed&utm_campaign=loading"
     data-instgrm-version="14"
     style="background:#FFF; border:0; border-radius:3px;
-           box-shadow:0 0 1px 0 rgba(0,0,0,0.5),
-                       0 1px 10px 0 rgba(0,0,0,0.15);
-           margin:1px; max-width:540px; min-width:326px; padding:0;
-           width:99.375%; width:-webkit-calc(100% - 2px);
-           width:calc(100% - 2px);">
+           box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15);
+           padding:0; width:100%;">
   </blockquote>
-
-  <script async src="//www.instagram.com/embed.js"></script>
+  <script async src="https://www.instagram.com/embed.js"></script>
 </div>
+
+
+
+### Backhand Daily From a Cone
+
+<div style="text-align:center;">
+<iframe width="560" height="315"
+        src="https://www.youtube.com/embed/aXXhaomzYZA?start=206&end=205&autoplay=0&mute=1&loop=0&playlist=aXXhaomzYZA"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+</iframe>
+</div>
+
+
+
+### Backhand Ladder
+
+<div style="text-align:center;">
+<iframe width="560" height="315"
+        src="https://www.youtube.com/embed/aXXhaomzYZA?start=491&end=505&autoplay=0&mute=1&loop=0&playlist=aXXhaomzYZA"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+</iframe>
+</div>
+
+
+### Rolled Backhand Daily
+
+<div style="text-align:center;">
+<iframe width="560" height="315"
+        src="https://www.youtube.com/embed/aXXhaomzYZA?start=81&end=90&autoplay=0&mute=1&loop=1&playlist=aXXhaomzYZA"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+</iframe>
+</div>
+
+
 
 ###  Backhand Angles
 
@@ -229,12 +209,29 @@
 </div>
 
 
-### Footwork Cross Overs
+
+## Reaction/ Speed 
+
+
+
+### First Step Quickness
+
+<div style="text-align:center;">
+<iframe width="315" height="560"
+        src="https://www.youtube.com/embed/bOo8tnLWRlo?autoplay=1&mute=1&loop=1&playlist=bOo8tnLWRlo"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+</iframe>
+</div>
+
+
+### Diving Play Up The Middle
 
 <div style="text-align:center;">
   <blockquote class="instagram-media"
     data-instgrm-captioned
-    data-instgrm-permalink="https://www.instagram.com/p/CGENhNnAG9W/?utm_source=ig_embed&amp;utm_campaign=loading"
+    data-instgrm-permalink="https://www.instagram.com/p/CKP1IxMA111/?utm_source=ig_embed&amp;utm_campaign=loading"
     data-instgrm-version="14"
     style="background:#FFF; border:0; border-radius:3px;
            box-shadow:0 0 1px 0 rgba(0,0,0,0.5),
@@ -246,15 +243,6 @@
   <script async src="//www.instagram.com/embed.js"></script>
 </div>
 
-### Flat Glove Work
-
-<iframe width="315" height="560"
-  src="https://www.youtube.com/embed/-5PNbrT2sB8"
-  title="YouTube Short"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
 
 
 
@@ -310,28 +298,17 @@
 <script async src="https://www.instagram.com/embed.js"></script>
 
 
-## Reaction / Speed Drills
+
+## Footwork
 
 
 
-### First Step Quickness
-
-<div style="text-align:center;">
-<iframe width="315" height="560"
-        src="https://www.youtube.com/embed/bOo8tnLWRlo?autoplay=1&mute=1&loop=1&playlist=bOo8tnLWRlo"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
-        allowfullscreen>
-</iframe>
-</div>
-
-
-### Diving Play Up The Middle
+### Footwork Cross Overs
 
 <div style="text-align:center;">
   <blockquote class="instagram-media"
     data-instgrm-captioned
-    data-instgrm-permalink="https://www.instagram.com/p/CKP1IxMA111/?utm_source=ig_embed&amp;utm_campaign=loading"
+    data-instgrm-permalink="https://www.instagram.com/p/CGENhNnAG9W/?utm_source=ig_embed&amp;utm_campaign=loading"
     data-instgrm-version="14"
     style="background:#FFF; border:0; border-radius:3px;
            box-shadow:0 0 1px 0 rgba(0,0,0,0.5),
@@ -342,6 +319,81 @@
   </blockquote>
   <script async src="//www.instagram.com/embed.js"></script>
 </div>
+
+
+
+### Triangle Drop Shuffle
+
+<div style="text-align:center;">
+<iframe width="560" height="315"
+        src="https://www.youtube.com/embed/aXXhaomzYZA?start=382&end=395&autoplay=0&mute=1&loop=0&playlist=aXXhaomzYZA"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+</iframe>
+</div>
+
+
+
+### Advanced Triangle Drill
+
+<div style="text-align:center;">
+<iframe width="560" height="315"
+        src="https://www.youtube.com/embed/nwT3mBgwQQQ?start=78&end=110&autoplay=0&mute=1&loop=0&playlist=nwT3mBgwQQQ"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+</iframe>
+</div>
+
+
+
+### Footwork To Power with Shuffle
+
+<div style="text-align:center;">
+<iframe width="560" height="315"
+        src="https://www.youtube.com/embed/aXXhaomzYZA?start=447&end=490&autoplay=0&mute=1&loop=0&playlist=aXXhaomzYZA"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+</iframe>
+</div>
+
+
+
+
+### Chatter and Hunt
+
+<div style="max-width:540px; margin:1px auto;">
+  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DHe0jNyyoBv/?utm_source=ig_embed&utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; padding:0; width:100%;">
+  </blockquote>
+  <script async src="//www.instagram.com/embed.js"></script>
+</div>
+
+
+## Other
+
+
+
+###  Backhand, Forehand and Fly
+
+<div style="text-align:center;">
+  <blockquote 
+    class="instagram-media"
+    data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/reel/DFGpLTLyOoq/?utm_source=ig_embed&utm_campaign=loading"
+    data-instgrm-version="14"
+    style="background:#FFF; border:0; border-radius:3px;
+           box-shadow:0 0 1px 0 rgba(0,0,0,0.5),
+                       0 1px 10px 0 rgba(0,0,0,0.15);
+           margin:1px; max-width:540px; min-width:326px; padding:0;
+           width:99.375%; width:-webkit-calc(100% - 2px);
+           width:calc(100% - 2px);">
+  </blockquote>
+
+  <script async src="//www.instagram.com/embed.js"></script>
+</div>
+
 
 
 ### Catching and Tagging
@@ -382,31 +434,6 @@
 
 
 
-## Footwork Drills
-
-
-
-### Footwork To Power with Shuffle
-
-<div style="text-align:center;">
-<iframe width="560" height="315"
-        src="https://www.youtube.com/embed/aXXhaomzYZA?start=447&end=490&autoplay=0&mute=1&loop=0&playlist=aXXhaomzYZA"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
-        allowfullscreen>
-</iframe>
-</div>
-
-
-
-
-### Chatter and Hunt
-
-<div style="max-width:540px; margin:1px auto;">
-  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DHe0jNyyoBv/?utm_source=ig_embed&utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; padding:0; width:100%;">
-  </blockquote>
-  <script async src="//www.instagram.com/embed.js"></script>
-</div>
 
 
 

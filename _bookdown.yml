@@ -2,3 +2,17 @@ delete_merged_file: true
 language:
   ui:
     chapter_name: "Chapter "
+
+# Specify the order of your .Rmd files here:
+rmd_files:
+  - index.Rmd
+  - 01-ThrowingMechanics.Rmd
+  - 07-Dailies.Rmd
+  - 02-InfieldDrills-.Rmd
+  - 03-OutfieldDrills.Rmd
+  - 04-CatchingDrills.Rmd
+  - 05-HittingDrills.Rmd
+  - 06-BaserunningDrills.Rmd
+  - 08-TeamAndSituationalDrills.Rmd
+  - 09-Conditioning.Rmd
+  - 10-Pitching.Rmd

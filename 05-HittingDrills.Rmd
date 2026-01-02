@@ -54,6 +54,12 @@ Why is a Disconnected Swing Bad?
 <script async src="https://www.instagram.com/embed.js"></script>
 
 
+
+##  Med Ball Work
+
+
+
+
 ### Med Ball Swings
 
 <div style="text-align:center;">
@@ -71,6 +77,25 @@ Why is a Disconnected Swing Bad?
   <script async src="//www.instagram.com/embed.js"></script>
 </div>
 
+
+###  Med Ball Routine
+
+
+1.	Shuffle and Throw
+2.	Step Back and Throw
+3.	Flamingo (Front Leg)
+4.	Boxers
+5.	Back Leg Hop
+6.	One Knee Down
+
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/r9fs-HGCZTs?start=474"
+  title="YouTube video"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 
 ##  Tee Work Drills

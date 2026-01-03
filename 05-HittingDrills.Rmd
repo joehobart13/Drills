@@ -54,6 +54,16 @@ Why is a Disconnected Swing Bad?
 <script async src="https://www.instagram.com/embed.js"></script>
 
 
+###  Hands By Your Shoulder (Don't load too much)
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/cckNn47WGY8"
+  title="YouTube video"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
 
 ##  Med Ball Work
 
@@ -150,6 +160,16 @@ Why is a Disconnected Swing Bad?
 
 <iframe width="315" height="560"
   src="https://www.youtube.com/embed/OgrHcCTSkBE"
+  title="YouTube Short"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+###  Babe Ruth Drill
+
+<iframe width="315" height="560"
+  src="https://www.youtube.com/embed/YGey75fmruk"
   title="YouTube Short"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

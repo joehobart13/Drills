@@ -78,9 +78,32 @@
 </iframe>
 </div>
 
+<div style="max-width:540px; margin:1px auto;">
+  <blockquote
+    class="instagram-media"
+    data-instgrm-permalink="https://www.instagram.com/p/BwPZ_RdgrHJ/?utm_source=ig_embed&utm_campaign=loading"
+    data-instgrm-version="14"
+    style="background:#FFF; border:0; border-radius:3px;
+           box-shadow:0 0 1px 0 rgba(0,0,0,0.5),
+                       0 1px 10px 0 rgba(0,0,0,0.15);
+           padding:0; width:100%;">
+  </blockquote>
+
+  <script async src="//www.instagram.com/embed.js"></script>
+</div>
+
+
+
 
 
 ### Standing GB, SH, BH
+
+<blockquote class="instagram-media"
+  data-instgrm-permalink="https://www.instagram.com/p/BxhYnNVg-i9/"
+  data-instgrm-version="14">
+</blockquote>
+
+<script async src="https://www.instagram.com/embed.js"></script>
 
 ### Ladder Forehands
 

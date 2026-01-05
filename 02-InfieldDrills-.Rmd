@@ -6,6 +6,26 @@
 ## Forehand
 
 
+###  Preset Forehands
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/GMpn7njoUaM?start=12&end=23"
+  title="YouTube video clip"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/JdU7hJpPWeM?start=0&end=46"
+  title="YouTube video clip"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+
+
 
 ### Getting Around the Ball
 
@@ -91,6 +111,16 @@
 </iframe>
 </div>
 
+### Cone Forehands
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/JdU7hJpPWeM?start=351&end=360"
+  title="YouTube video clip"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
 
 
 
@@ -138,7 +168,25 @@
   <script async src="//www.instagram.com/embed.js"></script>
 </div>
 
+### The L-Drill
 
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/CkEqP0U6jPY?start=64&end=68"
+  title="YouTube video clip"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+### The Infinity Drill
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/JdU7hJpPWeM?start=182&end=216"
+  title="YouTube video clip"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 
 
@@ -398,6 +446,28 @@
   </blockquote>
   <script async src="//www.instagram.com/embed.js"></script>
 </div>
+
+### Chatter Around
+
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/CkEqP0U6jPY?start=67&end=75"
+  title="YouTube video clip"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+### Crossover Drills
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/sOF7w-R-DF0?start=0&end=5"
+  title="YouTube video clip"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
 
 
 ## Other

@@ -1,7 +1,9 @@
 # Catching Drills
 
 
-## Stances & Why Catch Wtih Knee Down {-}
+## Some Basics
+
+###  Stances & Why Catch Wtih Knee Down
 
 
 <div style="text-align:center;">
@@ -18,6 +20,24 @@ Left knee down for RH batter (because umpire is behind left shoulder).
 
 Right knee down for LH batter (because umpire is behind right shoulder).
 
+
+### Working Up and Out (1, 2, 3, 4 Drill)
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/vbU9X7WYLMc?start=249&end=604"
+  title="YouTube video clip"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/JDRg2nvAwqU"
+  title="YouTube video"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 
 

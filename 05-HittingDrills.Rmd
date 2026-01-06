@@ -195,6 +195,77 @@ Why is a Disconnected Swing Bad?
 </div>
 
 
+### Happy Gilmore
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/OEkDXHoqtcE?start=0&end=60"
+  title="YouTube video clip"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+###  Balancing on your back leg before you swing (Teacherman Drill)
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/OEkDXHoqtcE?start=58&end=114"
+  title="YouTube video clip"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+### Jump Back Swings
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/OEkDXHoqtcE?start=114&end=156"
+  title="YouTube video clip"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+###  Load Pause Swings
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/OEkDXHoqtcE?start=156&end=213"
+  title="YouTube video clip"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+###  Knee Swings
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/OEkDXHoqtcE?start=213&end=254"
+  title="YouTube video clip"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+### 90 Degree Swings
+
+<iframe width="315" height="560"
+  src="https://www.youtube.com/embed/8Zq5WEU6HlM"
+  title="YouTube Shorts video"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+
+### Big Papi
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/6EokTXNijS8?start=214&end=268"
+  title="YouTube video clip"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
 
 ##  Front Toss / Live BP
 

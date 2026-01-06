@@ -91,21 +91,80 @@ Why is a Disconnected Swing Bad?
 ###  Med Ball Routine
 
 
-1.	Shuffle and Throw
-2.	Step Back and Throw
-3.	Flamingo (Front Leg)
-4.	Boxers
-5.	Back Leg Hop
-6.	One Knee Down
 
 
 <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/r9fs-HGCZTs?start=474"
+  src="https://www.youtube.com/watch?v=r9fs-HGCZTs"
   title="YouTube video"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
 </iframe>
+
+
+#### Shuffle and Throw
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/r9fs-HGCZTs?start=149&end=185"
+  title="YouTube video clip"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+
+#### Step Back and Throw
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/r9fs-HGCZTs?start=185&end=215"
+  title="YouTube video clip"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+
+#### Flamingo (Front Leg)
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/r9fs-HGCZTs?start=215&end=249"
+  title="YouTube video clip"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+#### Boxers
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/r9fs-HGCZTs?start=248&end=270"
+  title="YouTube video clip"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+#### Back Leg Hop
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/r9fs-HGCZTs?start=270&end=299"
+  title="YouTube video clip"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+#### One Knee Down
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/r9fs-HGCZTs?start=327&end=377"
+  title="YouTube video clip"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+
 
 
 ##  Tee Work Drills

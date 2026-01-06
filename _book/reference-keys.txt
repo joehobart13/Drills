@@ -200,3 +200,9 @@ load-pause-swings
 knee-swings
 degree-swings
 big-papi
+shuffle-and-throw
+step-back-and-throw
+flamingo-front-leg
+boxers
+back-leg-hop
+one-knee-down
